@@ -2,7 +2,7 @@
   "center": [
     -82.688599,41.488006
   ],
-  "glyphs": "glyphs/{fontstack}/{range}.pbf",
+  "glyphs": "https://ubukawa.github.io/ohio/glyphs/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
@@ -6995,12 +6995,12 @@
       "attribution": "OpenStreetMap contributors, <img src='https://unopengis.github.io/watermark/watermark.png'>",
       "maxzoom": 15,
       "tiles": [
-        "zxy/{z}/{x}/{y}.pbf"
+        "https://ubukawa.github.io/ohio/zxy/{z}/{x}/{y}.pbf"
       ],
       "type": "vector"
     }
   },
-  "sprite": "sprite/sprite",
+  "sprite": "https://ubukawa.github.io/ohio/sprite/sprite",
   "version": 8,
   "zoom": 11
 }
