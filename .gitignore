@@ -1,3 +1,4 @@
 src/*
 *.tif
 *.mbtiles
+docs/dem14
